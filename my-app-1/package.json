@@ -1,0 +1,9 @@
+{
+  "name": "myApp",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "~4.16.4",
+    "body-parser": "~1.18.3",
+    "mongoose": "5.4.8"
+  }
+}
